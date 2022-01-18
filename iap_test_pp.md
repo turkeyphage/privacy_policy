@@ -1,6 +1,6 @@
-iap_test: Privacy policy
+Privacy policy
 
-Welcome to the iap_test app for Android!
+Welcome to the tester app for Android!
 
 This is an open source Android app developed by Roger Lo. 
 
